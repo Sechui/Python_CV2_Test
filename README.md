@@ -14,3 +14,6 @@
 
 git提交步骤：
   https://blog.csdn.net/houjiyu243042162/article/details/95186177
+  *（每次推送过后需要 备注修改内容）
+  第一次使用后：后续拉取代码：
+    git pull origin
