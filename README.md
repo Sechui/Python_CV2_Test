@@ -1,6 +1,7 @@
 # Python_CV2_Test
 
 想法：
+
     1.在树莓派上安装opencv。
     
     2.在计算速度高的计算机上安装tensorflow。
