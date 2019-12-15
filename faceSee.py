@@ -9,7 +9,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath);
 
 font = cv2.FONT_HERSHEY_SIMPLEX
 
-默认值
+#默认值
 id = 0
 
 # 设置成员
