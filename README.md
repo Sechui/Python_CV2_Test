@@ -1,5 +1,12 @@
 # Python_CV2_Test
 
+想法：
+    1.在树莓派上安装opencv。
+    2.在计算速度高的计算机上安装tensorflow。
+    3.收集某个特定事物的多张图片，加上标签，用tensorflow训练数据，生成一个训练好的文件，叫Name.xml
+    4.把Name.xml用到树莓派上，用opencv中的人脸检测和识别部分编程。
+
+
 初始步骤：
 
 1 更换源：https://www.jianshu.com/p/abb1d797d1f
